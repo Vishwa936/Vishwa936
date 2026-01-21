@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Vishwa936
-- 👀 I’m interested in growing daily
-- 🌱 I’m currently learning Software Engineering Fundamentals, Project Management, Robotic Programming and Visual Analytics
-- 💞️ I’m looking to collaborate on C++, C, Python
-- 📫 How to reach me ? my instagram id is: infinityuniversum
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I do what challenges me until it's a cake to me.
+## Hi, I’m Vishwa 👋
+
+🎓 Computer Science graduate  
+💡 Interested in data, automation, backend systems, and AI-assisted workflows  
+
+I enjoy building practical solutions that:
+- turn data into insights
+- automate real-world processes
+- simplify complex problems using code
+
+### Currently working on
+- Strengthening Python, SQL, and backend fundamentals  
+- Exploring data pipelines and automation workflows  
+- Building projects for my portfolio  
+
+### Tech interests
+- Data analysis & engineering  
+- Automation & backend development  
+- AI-assisted systems (practical use cases)
+
+📍 Open to remote, hybrid, and local opportunities
+
 
 <!---
 Vishwa936/Vishwa936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
