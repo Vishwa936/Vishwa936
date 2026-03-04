@@ -1,27 +1,13 @@
-## Hi, I’m Vishwa 👋
+# Hi, I'm Vishwa 👋
 
-🎓 Computer Science graduate  
-💡 Interested in data, automation, backend systems, and AI-assisted workflows  
+Computer Science graduate interested in data, automation, backend systems, and AI-assisted workflows.
 
-I enjoy building practical solutions that:
-- turn data into insights
-- automate real-world processes
-- simplify complex problems using code
+I enjoy building practical tools that turn data into useful insights and help solve real-world problems.
 
-### Currently working on
-- Strengthening Python, SQL, and backend fundamentals  
-- Exploring data pipelines and automation workflows  
-- Building projects for my portfolio  
+## Current Projects
+- AI Job Match – Resume to job description matching using NLP
+- AI Support Ticket Assistant – Intelligent ticket classification system
+- AI Job Market Analyzer – Insights into demand for tech skills
 
-### Tech interests
-- Data analysis & engineering  
-- Automation & backend development  
-- AI-assisted systems (practical use cases)
-
-📍 Open to remote, hybrid, and local opportunities
-
-
-<!---
-Vishwa936/Vishwa936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech Stack
+Python • Machine Learning • NLP • Data Analysis • Backend Systems
