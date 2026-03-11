@@ -1,8 +1,8 @@
 # Hi, I'm Vishwa 👋
 
-Computer Science graduate interested in data, automation, backend systems, and AI-assisted workflows.
+Computer Science graduate focused on AI, data systems, and backend development.
 
-I enjoy building practical tools that turn data into useful insights and help solve real-world problems.
+I build practical AI-powered tools that turn data into useful insights.
 
 ## Current Projects
 - AI Job Match – Resume to job description matching using NLP
